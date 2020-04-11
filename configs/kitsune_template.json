@@ -1,0 +1,8 @@
+{
+  "kitsune": {
+    "home": "/Your/Install/Location",
+    "tmux": {
+      "session_name": "kitsune"
+    }
+  }
+}
